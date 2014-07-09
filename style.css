@@ -3,3 +3,8 @@ h1 { color: Cyan;
 .fav { 
   color: Green;
 }
+
+h3 {
+    text-align: center;
+    color: red;
+}
